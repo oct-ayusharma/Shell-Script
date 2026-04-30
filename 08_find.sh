@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #############################################
-# Date: 28-04-2026
+# Date: 29-04-2026
 # Time: 15:58 PM
 # Author: Ayush Sharma
 # Description: Find Commnad In Current Folder
